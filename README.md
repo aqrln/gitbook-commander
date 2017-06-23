@@ -11,7 +11,7 @@ scripts) and does not install anything on its own behalf.
 ## Installation and Usage
 
 ```sh
-$ npm install --save-dev gitbook@2
+$ npm install --save-dev gitbook
 $ npm install --save-dev gitbook-cli-lite
 ```
 
