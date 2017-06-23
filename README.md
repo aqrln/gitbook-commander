@@ -34,11 +34,12 @@ and run
 $ npm run build-docs
 ```
 
-to build your documentation. GitBook stays isolated inside your `node_modules`.
+to build your documentation. GitBook stays isolated inside your `node_modules`
+🎉
 
 ## Contributing
 
-Issues and PRs are welcome if you spot anything worth fixing!
+Issues and PRs are welcome if you spot anything worth fixing! ❤️
 
 This project uses [Conventional Commits][] and the JavaScript code style
 covered by its own [ESLint][] config (no textual description, sorry 😔, just
