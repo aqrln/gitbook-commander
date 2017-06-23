@@ -1,4 +1,4 @@
-# gitbook-cli-lite
+# gitbook-commander
 
 [![Build Status][travis-badge]][travis-url]
 [![Greenkeeper badge][greenkeeper-badge]][greenkeeper-url]
@@ -12,7 +12,7 @@ scripts) and does not install anything on its own behalf.
 
 ```sh
 $ npm install --save-dev gitbook
-$ npm install --save-dev gitbook-cli-lite
+$ npm install --save-dev gitbook-commander
 ```
 
 After that, the `gitbook-local` command will be available for you to use from
@@ -53,9 +53,9 @@ interaction in this repo.
 
 MIT
 
-[travis-badge]: https://travis-ci.org/aqrln/gitbook-cli-lite.svg?branch=master
-[travis-url]: https://travis-ci.org/aqrln/gitbook-cli-lite
-[greenkeeper-badge]: https://badges.greenkeeper.io/aqrln/gitbook-cli-lite.svg
+[travis-badge]: https://travis-ci.org/aqrln/gitbook-commander.svg?branch=master
+[travis-url]: https://travis-ci.org/aqrln/gitbook-commander
+[greenkeeper-badge]: https://badges.greenkeeper.io/aqrln/gitbook-commander.svg
 [greenkeeper-url]: https://greenkeeper.io/
 [conduct-badge]: https://img.shields.io/badge/code%20of%20conduct-contributor%20covenant-brightgreen.svg
 [GitBook]: https://github.com/GitbookIO/gitbook
