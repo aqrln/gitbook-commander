@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/aqrln/gitbook-commander/compare/v1.0.0...v1.1.0) (2017-06-23)
+
+
+### Features
+
+* **cli:** add "--version" option ([e7dc940](https://github.com/aqrln/gitbook-commander/commit/e7dc940))
+* **cli:** bail out if gitbook not found ([12bd3ae](https://github.com/aqrln/gitbook-commander/commit/12bd3ae))
+* **cli:** make help message more verbose ([3fd588b](https://github.com/aqrln/gitbook-commander/commit/3fd588b))
+* **cli:** recommend commands in case of a typo ([b1c48fe](https://github.com/aqrln/gitbook-commander/commit/b1c48fe))
+* **cli:** report unknown commands and options ([43b63c7](https://github.com/aqrln/gitbook-commander/commit/43b63c7))
+* **cli:** show usage in help ([d2a1729](https://github.com/aqrln/gitbook-commander/commit/d2a1729))
+
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2017-06-23)
 
