@@ -1,0 +1,10 @@
+# npm modules
+node_modules
+
+# Debug artifacts
+*.log
+*.cpuprofile
+*.heapsnapshot
+
+# OS-specific files
+.DS_Store

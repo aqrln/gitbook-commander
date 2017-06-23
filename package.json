@@ -1,0 +1,35 @@
+{
+  "name": "gitbook-cli-lite",
+  "version": "1.0.0-0",
+  "description": "npm scripts friendly CLI for GitBook that installs nothing on your system and makes use of peerDependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run -s lint",
+    "test-ci": "npm test && ./scripts/lint-commit-ci.sh",
+    "lint": "npm run -s lint-js",
+    "lint-js": "eslint .",
+    "commitmsg": "conventional-changelog-lint -e",
+    "release": "standard-version -s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqrln/gitbook-cli-lite.git"
+  },
+  "keywords": [
+    "gitbook",
+    "cli"
+  ],
+  "author": "Alexey Orlenko <eaglexrlnk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aqrln/gitbook-cli-lite/issues"
+  },
+  "homepage": "https://github.com/aqrln/gitbook-cli-lite#readme",
+  "devDependencies": {
+    "conventional-changelog-lint": "^1.1.9",
+    "eslint": "^4.0.0",
+    "eslint-plugin-import": "^2.6.0",
+    "husky": "^0.14.0",
+    "standard-version": "^4.2.0"
+  }
+}
