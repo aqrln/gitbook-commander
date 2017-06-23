@@ -1,3 +1,3 @@
 'use strict';
 
-throw new Error('not implemented yet');
+module.exports = require('./lib/cli');
