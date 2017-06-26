@@ -5,7 +5,7 @@
 
 An alternative lightweight CLI for the awesome [GitBook][] documentation
 generator that, unlike the official CLI, doesn't assume it is installed
-globally (and, to the contrary, is build specifically for being used in npm
+globally (and, to the contrary, is built specifically for being used in npm
 scripts) and does not install anything on its own behalf.
 
 ## Installation and Usage
