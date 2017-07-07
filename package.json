@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/aqrln/gitbook-commander#readme",
   "devDependencies": {
-    "conventional-changelog-lint": "^1.1.9",
+    "conventional-changelog-lint": "^2.0.0",
     "eslint": "^4.0.0",
     "eslint-plugin-import": "^2.6.0",
     "gitbook": "^3.2.2",
