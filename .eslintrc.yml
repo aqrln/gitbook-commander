@@ -50,6 +50,9 @@ rules:
     - error
     - before: false
       after: true
+  comma-dangle:
+    - error
+    - always-multiline
   eol-last:
     - error
   func-call-spacing:
