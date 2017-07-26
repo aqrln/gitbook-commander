@@ -11,5 +11,5 @@ else
   TO=$TRAVIS_COMMIT
 fi
 
-conventional-changelog-lint --from="$TRAVIS_BRANCH" --to="$TO"
-conventional-changelog-lint --from="$TRAVIS_COMMIT"
+commitlint --from="$TRAVIS_BRANCH" --to="$TO"
+commitlint --from="$TRAVIS_COMMIT"
