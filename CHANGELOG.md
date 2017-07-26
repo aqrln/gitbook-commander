@@ -24,7 +24,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 
 <a name="1.1.0"></a>
-# [1.1.0](https://github.com/aqrln/gitbook-commander/compare/v1.0.0...v1.1.0) (2017-06-23)
+## [1.1.0](https://github.com/aqrln/gitbook-commander/compare/v1.0.0...v1.1.0) (2017-06-23)
 
 
 ### Features
@@ -39,7 +39,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 
 <a name="1.0.0"></a>
-# 1.0.0 (2017-06-23)
+## [1.0.0](https://github.com/aqrln/gitbook-commander/compare/afb55fe...v1.0.0) (2017-06-23)
 
 
 ### Bug Fixes
