@@ -1,6 +1,6 @@
 {
   "name": "gitbook-commander",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "npm scripts friendly CLI for GitBook that installs nothing on your system and makes use of peerDependencies",
   "main": "index.js",
   "bin": {

@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.2"></a>
+## [1.1.2](https://github.com/aqrln/gitbook-commander/compare/v1.1.1...v1.1.2) (2017-07-26)
+
+
+### Bug Fixes
+
+* **cli:** fixup "bail out if gitbook not found" ([4b05a5f](https://github.com/aqrln/gitbook-commander/commit/4b05a5f))
+
+
+
 <a name="1.1.1"></a>
 ## [1.1.1](https://github.com/aqrln/gitbook-commander/compare/v1.1.0...v1.1.1) (2017-07-01)
 
