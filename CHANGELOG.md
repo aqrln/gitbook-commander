@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.4"></a>
+## [1.1.4](https://github.com/aqrln/gitbook-commander/compare/v1.1.3...v1.1.4) (2017-10-26)
+
+
+### Bug Fixes
+
+* **package:** update yargs to version 10.0.3 ([#7](https://github.com/aqrln/gitbook-commander/issues/7)) ([ca1f031](https://github.com/aqrln/gitbook-commander/commit/ca1f031))
+
+
+
 <a name="1.1.3"></a>
 ## [1.1.3](https://github.com/aqrln/gitbook-commander/compare/v1.1.2...v1.1.3) (2017-09-26)
 
