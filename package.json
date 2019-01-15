@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/aqrln/gitbook-commander#readme",
   "devDependencies": {
-    "@commitlint/cli": "^5.0.1",
+    "@commitlint/cli": "^7.3.2",
     "@commitlint/config-angular": "^4.3.0",
     "eslint": "^4.11.0",
     "eslint-plugin-import": "^2.8.0",
