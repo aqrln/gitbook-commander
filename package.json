@@ -41,6 +41,6 @@
     "gitbook": "2.x - 3.x"
   },
   "dependencies": {
-    "yargs": "^10.0.3"
+    "yargs": "^13.2.0"
   }
 }
