@@ -35,7 +35,7 @@
     "eslint-plugin-import": "^2.8.0",
     "gitbook": "^3.2.3",
     "husky": "^0.14.0",
-    "standard-version": "^4.2.0"
+    "standard-version": "^5.0.1"
   },
   "peerDependencies": {
     "gitbook": "2.x - 3.x"
