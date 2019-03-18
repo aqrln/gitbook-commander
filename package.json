@@ -31,7 +31,7 @@
   "devDependencies": {
     "@commitlint/cli": "^5.0.1",
     "@commitlint/config-angular": "^4.3.0",
-    "eslint": "^4.11.0",
+    "eslint": "^5.15.3",
     "eslint-plugin-import": "^2.8.0",
     "gitbook": "^3.2.3",
     "husky": "^0.14.0",
